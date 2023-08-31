@@ -18,4 +18,4 @@ npm run start:dev
 ```
 
 Deployed Site:
-![Deployed site screenshot.]()
+![Deployed site screenshot.](jatepic.png)
